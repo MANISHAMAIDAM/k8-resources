@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: Devops
+data:
+  course: "DevOps with AWS"
+  trainer: "manisha"
+  github: "https://github.com/MANISHAMAIDAM/k8-resources.git"
